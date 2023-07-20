@@ -1,7 +1,7 @@
 //Author: Mani
 //ID: C0887487
 
-//constructor is called when the oibject is created
+//constructor is called when the object is created
 class Car {
     constructor(brand, model, year, color, price, gas) {
         this.brand = brand;
